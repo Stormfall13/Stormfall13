@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,nestjs,postgres,wordpress,strapi,docker,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,nestjs,postgres,wordpress,strapiheadless,docker,git,github" alt="Tech Stack" />
 </p>
 
 ### 🚀 Featured Projects
