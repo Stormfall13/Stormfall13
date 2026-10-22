@@ -11,7 +11,11 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,nestjs,postgres,wordpress,strapiheadless,docker,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,nestjs,postgres,wordpress,docker,git,github" alt="Tech Stack" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Strapi_CMS-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi CMS" />
 </p>
 
 ### 🚀 Featured Projects
