@@ -11,7 +11,7 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,nestjs,postgres,postnman,wordpress,docker,git,github,figma,photoshop" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,nestjs,postgres,postman,wordpress,docker,git,github,figma,photoshop" alt="Tech Stack" />
 </p>
 
 <p>
